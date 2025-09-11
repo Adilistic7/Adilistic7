@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Adilistic7/Adilistic7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **个人介绍**
+* 我是程炜东，平时爱好比较多，摇滚乐（主要21世纪的，20世纪的），篮球（之前专业训练过7年，打过区级市级比赛），打游戏，2k打过5代，20，21，22，24，25，自己觉得在亚服线上的水平还不错，中上游水平，彩虹六号打了一千个小时左右，剪辑，一般就剪剪电影啥的，完全是自己摸索，b站有号有200多个粉丝，链接<https://space.bilibili.com/440850625?spm_id_from=333.1007.0.0>
+![DSC01748](https://img2024.cnblogs.com/blog/3701364/202509/3701364-20250911184654286-270368022.jpg =2456x1632)
+* **项目经历**
+* 做过苦逼的数据标注，还做过个卫星遥感图像中光伏板的实例分割和求面积
+* 其他就是自己做着玩的，主要就是深度学习模型的一些应用（目标检测之类的）
+* ![image](https://img2024.cnblogs.com/blog/3701364/202509/3701364-20250911184355180-104732474.png)
+* 找不到效果图了就不放了hhh
+**软工五问**
+* 这门课是不是要写前端后端之类的代码
+* 这门课难吗
+* 我软工的学生上学期一直在做软工的作业，会不会很耗时啊
+* 老师给分高吗
+* 考试怎么考啊
+**渴望得到的收获**
+* 代码能力，编码能力
+* 学会git，这个一直想学但是没学
+* 学会对软件进行评估，看他好不好
