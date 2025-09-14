@@ -1,10 +1,15 @@
 from collections import Counter
 import math
+from word_filter import filter_stop_words
 def calculate_similarity(words1, words2):
     """计算两个词列表的余弦相似度"""
+    #过滤停用词
+    filtered1 = filter_stop_words(words1)
+    filtered2 = filter_stop_words(words2)
+
     # 计算词频
-    counter1 = Counter(words1)
-    counter2 = Counter(words2)
+    counter1 = Counter(filtered1)
+    counter2 = Counter(filtered2)
 
     # 获取所有独特的词
     all_words = set(counter1.keys()).union(set(counter2.keys()))
