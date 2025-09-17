@@ -1,0 +1,3 @@
+相似度: 0.6000 (60.00%)
+源文件: tests/ori.txt
+检测文件: tests/test9.txt
